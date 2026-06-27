@@ -1,6 +1,6 @@
 # Premium Personal Portfolio Website
 
-This is a code bundle for Premium Personal Portfolio Website. The original project is available at https://www.figma.com/design/QmiyUMFWDQLVcQgkDu8f64/Premium-Personal-Portfolio-Website.
+www.kirptokaka.me
 
 ## Running the code
 
