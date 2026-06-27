@@ -378,10 +378,18 @@ function Nav() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         <a
           href="#home"
-          className="text-lg font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
+          className="flex items-center gap-2.5"
           style={{ fontFamily: "Space Grotesk, sans-serif" }}
         >
-          KAKAMOHITSINGH<span className="text-white/40">.</span>
+          <img
+            src="/assets/logo-mark.png"
+            alt="Mohit Singh logo"
+            className="w-9 h-9 rounded-lg object-cover ring-1 ring-white/10"
+            loading="eager"
+          />
+          <span className="text-lg font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+            MOHIT SINGH<span className="text-white/40">.</span>
+          </span>
         </a>
 
         <div className="hidden md:flex items-center gap-7">
