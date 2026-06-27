@@ -381,7 +381,7 @@ function Nav() {
           className="text-lg font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
           style={{ fontFamily: "Space Grotesk, sans-serif" }}
         >
-          MKS<span className="text-white/40">.</span>
+          KAKAMOHITSINGH<span className="text-white/40">.</span>
         </a>
 
         <div className="hidden md:flex items-center gap-7">
@@ -1472,9 +1472,9 @@ function Contact() {
 
               {(
                 [
-                  [Mail, "Email", "mohit.kumar@example.com", "mailto:mohit.kumar@example.com"],
-                  [Linkedin, "LinkedIn", "linkedin.com/in/mohitkumar", "#"],
-                  [Github, "GitHub", "github.com/mohitkumar", "#"],
+                  [Mail, "Email", "KAKAMOHITSINGH@GMAIL.COM", "mailto:kakamohitsingh@gmail.com"],
+                  [Linkedin, "LinkedIn", "linkedin.com/in/kakamohitsingh", "#"],
+                  [Github, "GitHub", "github.com/kakamohitsingh", "#"],
                   [MapPin, "Location", "Aligarh, Uttar Pradesh, India", null],
                 ] as [typeof Mail, string, string, string | null][]
               ).map(([Icon, label, value, href]) => (
@@ -1582,7 +1582,7 @@ function Footer() {
               className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-3"
               style={{ fontFamily: "Space Grotesk, sans-serif" }}
             >
-              MKS.
+              KAKAMOHITSINGH.
             </div>
             <p className="text-sm text-[#94A3B8] leading-relaxed max-w-xs">
               B.Tech IT Student building the future of software, one commit at a time.
